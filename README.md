@@ -23,11 +23,7 @@ Fill me in please! Don’t forget code examples:
     2
 
 ``` python
-from newnbdev import core
+multiply(10,2)
 ```
 
-``` python
-core
-```
-
-    <module 'newnbdev.core' from 'c:\\users\\anant\\newnbdev\\newnbdev\\core.py'>
+    20
