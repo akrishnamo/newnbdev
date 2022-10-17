@@ -8,4 +8,5 @@ def foo(): pass
 
 # %% ../nbs/00_core.ipynb 4
 def multiply(a,b):
+    '''this multiplies two numbers and returns the product'''
     return a*b
